@@ -24,7 +24,7 @@ class Introduction extends React.Component {
                         To test the functionalities. The user must have at least a small amount of ETH from Goerli testnet in a wallet.
                         You can get a few using the following link:<br></br> <a href="https://goerlifaucet.com/">Goerli Faucet</a>.<br></br>
                         In case you do not want or cannot get some. You can watch the video down below to check out how the project works.<br></br><br></br>
-                        <a href="">GitHub Repository</a>
+                        <a href="https://github.com/JaimeFidalgo/Faucet-React-Solidity" target="_blanck">GitHub Repository</a>
                     </p>
                 </div>
             </div>
