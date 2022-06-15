@@ -1,5 +1,5 @@
 FRONT-END DEPLOYMENT
-APp is accesible artifac at the following URL:
+App is accesible at the following URL:
 
 https://faucet-react-solidity.surge.sh/
 
