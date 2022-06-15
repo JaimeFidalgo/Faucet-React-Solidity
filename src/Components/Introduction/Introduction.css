@@ -1,0 +1,21 @@
+.description{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:50px;
+    font-family: sans-serif;
+}
+.description h1{
+    font-size: 30px;
+}
+
+.description p{
+    text-align: justify;
+}
+
+.description ul li{
+    
+list-style-type: circle;
+margin-left: 20px;
+}
